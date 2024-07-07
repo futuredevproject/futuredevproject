@@ -9,4 +9,4 @@
       * https://www.linkedin.com/in/sidenia-bezerra/
       * https://www.linkedin.com/in/diogo-borges-nascimento-146449201/
    
-- ⚡ Fun fact: Who knows if the future we won't have to change our surnames to Musk or Zuckerberg 
+- ⚡ Fun fact: Who knows if in the future we won't have to change our surnames to Musk or Zuckerberg 
