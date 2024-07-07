@@ -1,5 +1,5 @@
 ## Hi there 👋
-**futuredevproject** is a ✨ _special_ ✨ repository, where Diogo Borges (github: @Dioo16) and Sidenia Bezerra (github: @sidenia) cooperate to develop its projects and ideas.
+**futuredevproject** is a ✨ _special_ ✨ repository, where **_Diogo Borges_** (github: @Dioo16) and **_Sidenia Bezerra_** (github: @sidenia) cooperate to develop its projects and ideas.
 
 - 🔭 We are currently working on a project to manage psichologists agenda. It's a quite interesting solution. Guess soon a new app is available to everyone! 
 - 🌱 We are taking advantages of the pair programming, building new skills and developing older ones, sharing knowledge and having so much fun!
